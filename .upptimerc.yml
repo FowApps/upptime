@@ -14,8 +14,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.fowapps.com
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowapps-logo-circle-transparent.png
+  name: FowApps Status Page
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: Welcome
   navbar:
