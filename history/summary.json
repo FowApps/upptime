@@ -1,20 +1,20 @@
 [
   {
-    "name": "FowCRM.com",
+    "name": "Website (FowCRM.com)",
     "url": "https://fowcrm.com",
     "icon": "https://favicons.githubusercontent.com/fowcrm.com",
-    "slug": "fow-crm-com",
+    "slug": "website-fow-crm-com",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2998,
-    "timeDay": 2924,
-    "timeWeek": 2998,
-    "timeMonth": 2998,
-    "timeYear": 2998,
+    "time": 2553,
+    "timeDay": 2553,
+    "timeWeek": 2553,
+    "timeMonth": 2553,
+    "timeYear": 2553,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1200,
-    "timeDay": 1223,
-    "timeWeek": 1117,
-    "timeMonth": 1200,
-    "timeYear": 1200,
+    "time": 1206,
+    "timeDay": 1266,
+    "timeWeek": 1149,
+    "timeMonth": 1206,
+    "timeYear": 1206,
     "dailyMinutesDown": {}
   }
 ]
