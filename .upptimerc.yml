@@ -16,6 +16,7 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowapps-logo-circle-transparent.png
   favicon: https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowapps-logo-circle-transparent.png
+  customHeadHtml: '<script async src="https://www.googletagmanager.com/gtag/js?id=G-46P7B03HRG"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag("js", new Date());gtag("config", "G-46P7B03HRG");</script>'
   name: FowApps Status Page
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: Welcome
