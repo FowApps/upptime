@@ -5,8 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Website (FowCRM.com)
     url: https://fowcrm.com
+    icon: https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowcrm-logo-circle-transparent.png
   - name: FowAccess
     url: https://access.fowapps.com
+    icon: https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowcrm-logo-circle-transparent.png
 
 status-website:
   publish: true
