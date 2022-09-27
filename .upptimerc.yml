@@ -9,6 +9,27 @@ sites:
   - name: FowAccess
     url: https://access.fowapps.com
     icon: https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowcrm-logo-circle-transparent.png
+  - name: FowCRM
+    url: https://crm.fowapps.com
+    icon: https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowcrm-logo-circle-transparent.png
+  - name: FowDocs
+    url: https://docs.fowapps.com
+    icon: https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowcrm-logo-circle-transparent.png
+  - name: Developer Portal
+    url: https://developers.fowapps.com
+    icon: https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowcrm-logo-circle-transparent.png
+  - name: API Gateway
+    url: https://gateway.fowapps.com/health
+    icon: https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowapps-logo-circle-transparent.png
+  - name: CRM API
+    url: https://gateway.fowapps.com/crm/health
+    icon: https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowapps-logo-circle-transparent.png
+  - name: Notification API
+    url: https://gateway.fowapps.com/notification/health
+    icon: https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowapps-logo-circle-transparent.png
+  - name: Helper API
+    url: https://gateway.fowapps.com/helpers/health
+    icon: https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowapps-logo-circle-transparent.png
 
 status-website:
   publish: true
