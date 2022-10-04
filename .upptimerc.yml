@@ -24,11 +24,20 @@ sites:
   - name: CRM API
     url: https://gateway.fowapps.com/crm/health
     icon: https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowapps-logo-circle-transparent.png
+  - name: Extension API
+    url: https://gateway.fowapps.com/extension/health
+    icon: https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowapps-logo-circle-transparent.png
+  - name: Mail API
+    url: https://gateway.fowapps.com/mail/health
+    icon: https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowapps-logo-circle-transparent.png
   - name: Notification API
     url: https://gateway.fowapps.com/notification/health
     icon: https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowapps-logo-circle-transparent.png
   - name: Helper API
     url: https://gateway.fowapps.com/helpers/health
+    icon: https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowapps-logo-circle-transparent.png
+  - name: EWS API
+    url: https://gateway.fowapps.com/ews/health
     icon: https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowapps-logo-circle-transparent.png
 
 status-website:
