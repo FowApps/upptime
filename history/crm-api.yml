@@ -1,7 +1,7 @@
 url: https://gateway.fowapps.com/crm/health
-status: up
-code: 200
-responseTime: 123
-lastUpdated: 2022-12-07T07:04:54.351Z
+status: down
+code: 502
+responseTime: 17852
+lastUpdated: 2022-12-07T07:49:28.118Z
 startTime: Tue Sep 27 2022 09:59:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
