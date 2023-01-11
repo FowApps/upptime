@@ -144,11 +144,11 @@
     "url": "https://gateway.fowapps.com/extension/health",
     "icon": "https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowapps-logo-circle-transparent.png",
     "slug": "extension-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 135,
     "timeDay": 134,
@@ -156,7 +156,7 @@
     "timeMonth": 136,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2023-01-11": 1
+      "2023-01-11": 6
     }
   },
   {
