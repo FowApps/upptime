@@ -1,7 +1,7 @@
 url: https://fowcrm.com
-status: up
-code: 200
-responseTime: 20043
-lastUpdated: 2023-07-31T08:06:14.129Z
+status: down
+code: 503
+responseTime: 5135
+lastUpdated: 2023-07-31T08:21:10.902Z
 startTime: Tue Sep 20 2022 12:36:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
