@@ -1,7 +1,7 @@
 url: https://gateway.fowapps.com/helpers/health
-status: up
-code: 200
-responseTime: 956
-lastUpdated: 2023-08-24T10:49:48.427Z
+status: down
+code: 502
+responseTime: 134
+lastUpdated: 2023-08-24T10:55:55.882Z
 startTime: 2022-09-27T09:59:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
