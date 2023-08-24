@@ -1,7 +1,7 @@
 url: https://gateway.fowapps.com/mail/health
-status: up
-code: 200
-responseTime: 125
-lastUpdated: 2023-08-24T13:08:24.781Z
+status: down
+code: 502
+responseTime: 170
+lastUpdated: 2023-08-24T13:18:12.228Z
 startTime: 2022-10-04T12:41:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
