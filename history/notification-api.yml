@@ -1,7 +1,7 @@
 url: https://gateway.fowapps.com/notification/health
-status: down
-code: 502
-responseTime: 163
-lastUpdated: 2023-08-24T10:15:46.219Z
+status: up
+code: 200
+responseTime: 135
+lastUpdated: 2023-08-24T10:49:42.186Z
 startTime: 2022-09-27T09:59:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
