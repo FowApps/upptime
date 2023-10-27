@@ -1,7 +1,7 @@
 url: https://access.fowapps.com
-status: up
-code: 200
-responseTime: 979
-lastUpdated: 2023-10-27T14:13:24.013Z
+status: down
+code: 500
+responseTime: 644
+lastUpdated: 2023-10-27T14:47:59.636Z
 startTime: 2022-09-07T13:16:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
