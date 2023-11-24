@@ -1,7 +1,7 @@
 url: https://gateway.fowapps.com/extension/health
-status: down
-code: 504
-responseTime: 10123
-lastUpdated: 2023-11-24T05:13:03.923Z
+status: up
+code: 200
+responseTime: 113
+lastUpdated: 2023-11-24T05:21:10.906Z
 startTime: 2022-10-04T12:41:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
