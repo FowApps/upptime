@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.18%",
     "uptimeYear": "99.85%",
-    "time": 3081,
-    "timeDay": 2308,
-    "timeWeek": 2215,
-    "timeMonth": 3250,
-    "timeYear": 3066,
+    "time": 3077,
+    "timeDay": 2194,
+    "timeWeek": 2199,
+    "timeMonth": 3074,
+    "timeYear": 3061,
     "dailyMinutesDown": {
       "2024-07-31": 6,
       "2024-07-28": 13,
@@ -36,13 +36,13 @@
     "status": "up",
     "uptime": "99.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.95%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.33%",
     "time": 838,
-    "timeDay": 743,
-    "timeWeek": 744,
-    "timeMonth": 773,
+    "timeDay": 833,
+    "timeWeek": 758,
+    "timeMonth": 774,
     "timeYear": 838,
     "dailyMinutesDown": {
       "2024-08-14": 5,
@@ -106,8 +106,7 @@
       "2023-09-07": 6,
       "2023-09-01": 17,
       "2023-08-29": 2,
-      "2023-08-24": 410,
-      "2023-08-23": 515
+      "2023-08-24": 410
     }
   },
   {
@@ -121,14 +120,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 524,
-    "timeDay": 160,
-    "timeWeek": 149,
-    "timeMonth": 260,
-    "timeYear": 526,
+    "time": 523,
+    "timeDay": 119,
+    "timeWeek": 144,
+    "timeMonth": 255,
+    "timeYear": 525,
     "dailyMinutesDown": {
-      "2023-08-24": 395,
-      "2023-08-23": 511
+      "2023-08-24": 395
     }
   },
   {
@@ -143,13 +141,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 442,
-    "timeDay": 495,
-    "timeWeek": 459,
-    "timeMonth": 457,
+    "timeDay": 424,
+    "timeWeek": 456,
+    "timeMonth": 456,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2023-08-24": 401,
-      "2023-08-23": 511
+      "2023-08-24": 401
     }
   },
   {
@@ -164,13 +161,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 405,
-    "timeDay": 400,
-    "timeWeek": 419,
+    "timeDay": 397,
+    "timeWeek": 416,
     "timeMonth": 432,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2023-08-24": 395,
-      "2023-08-23": 510
+      "2023-08-24": 395
     }
   },
   {
@@ -185,13 +181,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 546,
-    "timeDay": 602,
+    "timeDay": 554,
     "timeWeek": 565,
-    "timeMonth": 557,
+    "timeMonth": 558,
     "timeYear": 546,
     "dailyMinutesDown": {
-      "2023-08-24": 403,
-      "2023-08-23": 510
+      "2023-08-24": 403
     }
   },
   {
@@ -206,14 +201,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 156,
-    "timeDay": 142,
-    "timeWeek": 172,
-    "timeMonth": 225,
+    "timeDay": 133,
+    "timeWeek": 136,
+    "timeMonth": 208,
     "timeYear": 156,
     "dailyMinutesDown": {
       "2024-05-10": 4,
-      "2023-08-24": 662,
-      "2023-08-23": 510
+      "2023-08-24": 662
     }
   },
   {
@@ -228,9 +222,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
     "time": 155,
-    "timeDay": 137,
+    "timeDay": 128,
     "timeWeek": 131,
-    "timeMonth": 127,
+    "timeMonth": 128,
     "timeYear": 155,
     "dailyMinutesDown": {
       "2024-05-16": 6,
@@ -278,8 +272,7 @@
       "2023-10-25": 7,
       "2023-10-23": 10,
       "2023-10-20": 6,
-      "2023-08-24": 649,
-      "2023-08-23": 510
+      "2023-08-24": 649
     }
   },
   {
@@ -294,13 +287,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 128,
-    "timeDay": 137,
+    "timeDay": 129,
     "timeWeek": 132,
-    "timeMonth": 127,
+    "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2023-08-24": 1045,
-      "2023-08-23": 510
+      "2023-08-24": 1045
     }
   },
   {
@@ -315,13 +307,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 128,
-    "timeDay": 140,
+    "timeDay": 130,
     "timeWeek": 132,
-    "timeMonth": 127,
+    "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2023-08-24": 667,
-      "2023-08-23": 510
+      "2023-08-24": 667
     }
   }
 ]
