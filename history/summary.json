@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 2613,
-    "timeDay": 2043,
-    "timeWeek": 2254,
-    "timeMonth": 2274,
+    "time": 2610,
+    "timeDay": 2045,
+    "timeWeek": 2195,
+    "timeMonth": 2262,
     "timeYear": 2618,
     "dailyMinutesDown": {
       "2024-12-10": 11,
@@ -46,9 +46,9 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.55%",
     "time": 849,
-    "timeDay": 796,
-    "timeWeek": 848,
-    "timeMonth": 864,
+    "timeDay": 871,
+    "timeWeek": 854,
+    "timeMonth": 862,
     "timeYear": 848,
     "dailyMinutesDown": {
       "2025-01-09": 4,
@@ -96,8 +96,7 @@
       "2024-01-22": 12,
       "2024-01-19": 3,
       "2024-01-16": 3,
-      "2024-01-15": 173,
-      "2024-01-14": 823
+      "2024-01-15": 173
     }
   },
   {
@@ -106,16 +105,16 @@
     "icon": "https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowcrm-logo-circle-transparent.png",
     "slug": "fow-crm",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 440,
-    "timeDay": 139,
-    "timeWeek": 131,
+    "time": 439,
+    "timeDay": 129,
+    "timeWeek": 132,
     "timeMonth": 130,
-    "timeYear": 442,
+    "timeYear": 441,
     "dailyMinutesDown": {}
   },
   {
@@ -130,9 +129,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 438,
-    "timeDay": 420,
-    "timeWeek": 427,
-    "timeMonth": 421,
+    "timeDay": 407,
+    "timeWeek": 432,
+    "timeMonth": 420,
     "timeYear": 438,
     "dailyMinutesDown": {}
   },
@@ -148,9 +147,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 399,
-    "timeDay": 391,
-    "timeWeek": 382,
-    "timeMonth": 387,
+    "timeDay": 393,
+    "timeWeek": 380,
+    "timeMonth": 386,
     "timeYear": 399,
     "dailyMinutesDown": {}
   },
@@ -166,9 +165,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 549,
-    "timeDay": 589,
+    "timeDay": 605,
     "timeWeek": 574,
-    "timeMonth": 557,
+    "timeMonth": 558,
     "timeYear": 549,
     "dailyMinutesDown": {}
   },
@@ -184,9 +183,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 155,
-    "timeWeek": 151,
-    "timeMonth": 143,
+    "timeDay": 162,
+    "timeWeek": 150,
+    "timeMonth": 144,
     "timeYear": 156,
     "dailyMinutesDown": {
       "2024-05-10": 4
@@ -204,8 +203,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 135,
-    "timeDay": 136,
-    "timeWeek": 134,
+    "timeDay": 139,
+    "timeWeek": 133,
     "timeMonth": 129,
     "timeYear": 135,
     "dailyMinutesDown": {
@@ -235,8 +234,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 137,
-    "timeWeek": 135,
+    "timeDay": 139,
+    "timeWeek": 134,
     "timeMonth": 129,
     "timeYear": 127,
     "dailyMinutesDown": {}
@@ -253,10 +252,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 136,
+    "timeDay": 140,
     "timeWeek": 134,
     "timeMonth": 129,
-    "timeYear": 127,
+    "timeYear": 128,
     "dailyMinutesDown": {}
   }
 ]
