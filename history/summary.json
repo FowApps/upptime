@@ -4,15 +4,15 @@
     "url": "https://fowcrm.com",
     "icon": "https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowcrm-logo-circle-transparent.png",
     "slug": "website-fow-crm-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "95.08%",
+    "uptimeDay": "95.06%",
     "uptimeWeek": "97.53%",
     "uptimeMonth": "98.84%",
-    "uptimeYear": "99.75%",
+    "uptimeYear": "99.76%",
     "time": 2617,
-    "timeDay": 4179,
-    "timeWeek": 3245,
+    "timeDay": 4184,
+    "timeWeek": 3238,
     "timeMonth": 2707,
     "timeYear": 2617,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
       "2024-11-12": 72,
       "2024-11-11": 296,
       "2024-11-10": 351,
-      "2024-11-09": 56
+      "2024-11-09": 44
     }
   },
   {
@@ -49,7 +49,7 @@
     "uptimeYear": "99.89%",
     "time": 849,
     "timeDay": 933,
-    "timeWeek": 873,
+    "timeWeek": 872,
     "timeMonth": 836,
     "timeYear": 846,
     "dailyMinutesDown": {
@@ -114,7 +114,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 384,
-    "timeDay": 132,
+    "timeDay": 130,
     "timeWeek": 158,
     "timeMonth": 140,
     "timeYear": 378,
@@ -133,7 +133,7 @@
     "uptimeYear": "100.00%",
     "time": 438,
     "timeDay": 507,
-    "timeWeek": 449,
+    "timeWeek": 451,
     "timeMonth": 438,
     "timeYear": 439,
     "dailyMinutesDown": {}
@@ -150,7 +150,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 402,
-    "timeDay": 472,
+    "timeDay": 469,
     "timeWeek": 433,
     "timeMonth": 406,
     "timeYear": 403,
@@ -168,7 +168,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 551,
-    "timeDay": 579,
+    "timeDay": 578,
     "timeWeek": 555,
     "timeMonth": 556,
     "timeYear": 551,
@@ -208,7 +208,7 @@
     "uptimeYear": "99.98%",
     "time": 135,
     "timeDay": 132,
-    "timeWeek": 127,
+    "timeWeek": 126,
     "timeMonth": 128,
     "timeYear": 135,
     "dailyMinutesDown": {
