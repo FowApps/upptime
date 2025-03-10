@@ -6,14 +6,14 @@
     "slug": "website-fow-crm-com",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "94.69%",
-    "uptimeWeek": "96.13%",
+    "uptimeDay": "95.34%",
+    "uptimeWeek": "96.23%",
     "uptimeMonth": "97.93%",
     "uptimeYear": "99.83%",
     "time": 2635,
-    "timeDay": 2080,
-    "timeWeek": 2062,
-    "timeMonth": 2889,
+    "timeDay": 2099,
+    "timeWeek": 2036,
+    "timeMonth": 2886,
     "timeYear": 2638,
     "dailyMinutesDown": {
       "2025-03-09": 68,
@@ -43,9 +43,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.89%",
     "time": 847,
-    "timeDay": 830,
+    "timeDay": 856,
     "timeWeek": 843,
-    "timeMonth": 872,
+    "timeMonth": 873,
     "timeYear": 848,
     "dailyMinutesDown": {
       "2025-03-05": 5,
@@ -112,8 +112,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 365,
-    "timeDay": 158,
-    "timeWeek": 171,
+    "timeDay": 153,
+    "timeWeek": 172,
     "timeMonth": 150,
     "timeYear": 358,
     "dailyMinutesDown": {}
@@ -130,9 +130,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 439,
-    "timeDay": 422,
-    "timeWeek": 437,
-    "timeMonth": 437,
+    "timeDay": 401,
+    "timeWeek": 435,
+    "timeMonth": 436,
     "timeYear": 439,
     "dailyMinutesDown": {}
   },
@@ -147,8 +147,8 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 403,
-    "timeDay": 467,
+    "time": 404,
+    "timeDay": 465,
     "timeWeek": 414,
     "timeMonth": 416,
     "timeYear": 403,
@@ -166,8 +166,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 552,
-    "timeDay": 571,
-    "timeWeek": 567,
+    "timeDay": 570,
+    "timeWeek": 566,
     "timeMonth": 562,
     "timeYear": 553,
     "dailyMinutesDown": {}
@@ -184,8 +184,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 144,
-    "timeWeek": 142,
+    "timeDay": 142,
+    "timeWeek": 141,
     "timeMonth": 140,
     "timeYear": 157,
     "dailyMinutesDown": {
@@ -219,8 +219,7 @@
       "2024-04-01": 6,
       "2024-03-30": 5,
       "2024-03-27": 5,
-      "2024-03-23": 5,
-      "2024-03-10": 6
+      "2024-03-23": 5
     }
   },
   {
@@ -237,7 +236,7 @@
     "time": 127,
     "timeDay": 129,
     "timeWeek": 129,
-    "timeMonth": 129,
+    "timeMonth": 128,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2025-01-17": 2
