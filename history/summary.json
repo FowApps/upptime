@@ -4,9 +4,9 @@
     "url": "https://fowcrm.com",
     "icon": "https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowcrm-logo-circle-transparent.png",
     "slug": "website-fow-crm-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "72.86%",
+    "uptimeDay": "72.85%",
     "uptimeWeek": "92.63%",
     "uptimeMonth": "96.44%",
     "uptimeYear": "98.93%",
@@ -47,7 +47,7 @@
       "2025-04-29": 10,
       "2025-04-26": 11,
       "2025-04-25": 54,
-      "2025-04-24": 173
+      "2025-04-24": 141
     }
   },
   {
