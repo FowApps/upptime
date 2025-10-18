@@ -4,15 +4,15 @@
     "url": "https://fowcrm.com",
     "icon": "https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowcrm-logo-circle-transparent.png",
     "slug": "website-fow-crm-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "80.87%",
+    "uptimeDay": "80.86%",
     "uptimeWeek": "88.39%",
     "uptimeMonth": "95.43%",
     "uptimeYear": "98.89%",
     "time": 2009,
-    "timeDay": 2520,
-    "timeWeek": 6448,
+    "timeDay": 2521,
+    "timeWeek": 6451,
     "timeMonth": 3009,
     "timeYear": 2003,
     "dailyMinutesDown": {
@@ -44,7 +44,7 @@
       "2025-05-05": 45,
       "2025-05-04": 25,
       "2025-05-03": 9,
-      "2025-05-02": 16
+      "2025-05-02": 11
     }
   },
   {
@@ -56,12 +56,12 @@
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.92%",
     "time": 805,
-    "timeDay": 719,
+    "timeDay": 739,
     "timeWeek": 789,
-    "timeMonth": 824,
+    "timeMonth": 825,
     "timeYear": 801,
     "dailyMinutesDown": {
       "2025-10-11": 9,
@@ -126,8 +126,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 178,
-    "timeWeek": 197,
+    "timeDay": 182,
+    "timeWeek": 198,
     "timeMonth": 189,
     "timeYear": 170,
     "dailyMinutesDown": {}
@@ -144,8 +144,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 468,
-    "timeDay": 510,
-    "timeWeek": 500,
+    "timeDay": 488,
+    "timeWeek": 499,
     "timeMonth": 489,
     "timeYear": 468,
     "dailyMinutesDown": {}
@@ -162,8 +162,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 443,
-    "timeDay": 390,
-    "timeWeek": 443,
+    "timeDay": 391,
+    "timeWeek": 444,
     "timeMonth": 457,
     "timeYear": 444,
     "dailyMinutesDown": {}
@@ -182,7 +182,7 @@
     "time": 585,
     "timeDay": 585,
     "timeWeek": 636,
-    "timeMonth": 610,
+    "timeMonth": 609,
     "timeYear": 586,
     "dailyMinutesDown": {}
   },
@@ -220,7 +220,7 @@
     "time": 129,
     "timeDay": 128,
     "timeWeek": 130,
-    "timeMonth": 133,
+    "timeMonth": 132,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2025-01-17": 22
