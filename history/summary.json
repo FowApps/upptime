@@ -137,19 +137,19 @@
     "url": "https://docs.fowapps.com",
     "icon": "https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowcrm-logo-circle-transparent.png",
     "slug": "fow-docs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 468,
-    "timeDay": 503,
+    "timeDay": 501,
     "timeWeek": 506,
     "timeMonth": 492,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2025-10-20": 4
+      "2025-10-20": 11
     }
   },
   {
@@ -157,19 +157,19 @@
     "url": "https://developers.fowapps.com",
     "icon": "https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowcrm-logo-circle-transparent.png",
     "slug": "developer-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 443,
-    "timeDay": 440,
+    "timeDay": 436,
     "timeWeek": 446,
     "timeMonth": 458,
     "timeYear": 444,
     "dailyMinutesDown": {
-      "2025-10-20": 5
+      "2025-10-20": 11
     }
   },
   {
