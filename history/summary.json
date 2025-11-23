@@ -6,16 +6,17 @@
     "slug": "website-fow-crm-com",
     "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "61.47%",
-    "uptimeWeek": "87.17%",
-    "uptimeMonth": "83.56%",
+    "uptimeDay": "60.85%",
+    "uptimeWeek": "87.08%",
+    "uptimeMonth": "83.53%",
     "uptimeYear": "98.32%",
     "time": 1982,
     "timeDay": 8520,
-    "timeWeek": 4632,
+    "timeWeek": 4651,
     "timeMonth": 2601,
     "timeYear": 1978,
     "dailyMinutesDown": {
+      "2025-11-23": 9,
       "2025-11-22": 556,
       "2025-11-21": 462,
       "2025-11-20": 150,
@@ -39,7 +40,7 @@
       "2025-10-12": 337,
       "2025-10-11": 16,
       "2025-09-29": 46,
-      "2025-09-28": 25
+      "2025-09-28": 23
     }
   },
   {
@@ -139,7 +140,7 @@
     "uptimeYear": "100.00%",
     "time": 473,
     "timeDay": 486,
-    "timeWeek": 485,
+    "timeWeek": 486,
     "timeMonth": 496,
     "timeYear": 474,
     "dailyMinutesDown": {
