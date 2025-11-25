@@ -4,19 +4,19 @@
     "url": "https://fowcrm.com",
     "icon": "https://raw.githubusercontent.com/FowApps/upptime/master/assets/fowcrm-logo-circle-transparent.png",
     "slug": "website-fow-crm-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "71.16%",
-    "uptimeWeek": "64.57%",
-    "uptimeMonth": "78.13%",
-    "uptimeYear": "97.93%",
+    "uptimeDay": "70.90%",
+    "uptimeWeek": "64.52%",
+    "uptimeMonth": "78.12%",
+    "uptimeYear": "97.94%",
     "time": 2003,
     "timeDay": 5000,
     "timeWeek": 5554,
     "timeMonth": 2910,
     "timeYear": 1997,
     "dailyMinutesDown": {
-      "2025-11-25": 366,
+      "2025-11-25": 372,
       "2025-11-24": 884,
       "2025-11-23": 1127,
       "2025-11-22": 556,
@@ -39,7 +39,7 @@
       "2025-10-17": 7,
       "2025-10-14": 218,
       "2025-10-13": 340,
-      "2025-10-12": 78
+      "2025-10-12": 45
     }
   },
   {
