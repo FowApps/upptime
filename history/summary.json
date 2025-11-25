@@ -6,17 +6,17 @@
     "slug": "website-fow-crm-com",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "70.49%",
-    "uptimeWeek": "64.62%",
-    "uptimeMonth": "78.14%",
-    "uptimeYear": "97.92%",
-    "time": 2000,
-    "timeDay": 4195,
-    "timeWeek": 5448,
-    "timeMonth": 2877,
-    "timeYear": 1994,
+    "uptimeDay": "71.16%",
+    "uptimeWeek": "64.57%",
+    "uptimeMonth": "78.13%",
+    "uptimeYear": "97.93%",
+    "time": 2003,
+    "timeDay": 5000,
+    "timeWeek": 5554,
+    "timeMonth": 2910,
+    "timeYear": 1997,
     "dailyMinutesDown": {
-      "2025-11-25": 361,
+      "2025-11-25": 366,
       "2025-11-24": 884,
       "2025-11-23": 1127,
       "2025-11-22": 556,
@@ -39,7 +39,7 @@
       "2025-10-17": 7,
       "2025-10-14": 218,
       "2025-10-13": 340,
-      "2025-10-12": 126
+      "2025-10-12": 78
     }
   },
   {
@@ -54,8 +54,8 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.92%",
     "time": 810,
-    "timeDay": 840,
-    "timeWeek": 867,
+    "timeDay": 813,
+    "timeWeek": 864,
     "timeMonth": 825,
     "timeYear": 812,
     "dailyMinutesDown": {
@@ -121,7 +121,7 @@
     "uptimeYear": "100.00%",
     "time": 174,
     "timeDay": 159,
-    "timeWeek": 157,
+    "timeWeek": 156,
     "timeMonth": 183,
     "timeYear": 174,
     "dailyMinutesDown": {}
@@ -138,7 +138,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 473,
-    "timeDay": 465,
+    "timeDay": 478,
     "timeWeek": 488,
     "timeMonth": 495,
     "timeYear": 474,
@@ -158,9 +158,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 449,
-    "timeDay": 474,
-    "timeWeek": 460,
-    "timeMonth": 464,
+    "timeDay": 486,
+    "timeWeek": 465,
+    "timeMonth": 465,
     "timeYear": 450,
     "dailyMinutesDown": {
       "2025-10-20": 11
@@ -178,8 +178,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 590,
-    "timeDay": 590,
-    "timeWeek": 592,
+    "timeDay": 588,
+    "timeWeek": 593,
     "timeMonth": 607,
     "timeYear": 591,
     "dailyMinutesDown": {}
@@ -217,7 +217,7 @@
     "uptimeYear": "100.00%",
     "time": 130,
     "timeDay": 133,
-    "timeWeek": 133,
+    "timeWeek": 134,
     "timeMonth": 134,
     "timeYear": 130,
     "dailyMinutesDown": {
